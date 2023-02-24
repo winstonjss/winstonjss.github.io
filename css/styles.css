@@ -11337,7 +11337,12 @@ html {
 .divider-custom.divider-light .divider-custom-icon {
   color: #fff;
 }
-
+.name{
+  color: black;
+  margin-top: 100px;
+  background-color: red;
+  text-align: center;
+}
 .btn-xl {
   padding: 1rem 1.75rem;
   font-size: 1.25rem;
